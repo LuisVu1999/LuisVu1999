@@ -4,24 +4,26 @@
 ---
 
 ### 💡 About Me  
-I’m a **QA Automation Engineer** passionate about making testing smarter, not harder.  
-I specialize in building **cross-platform automation frameworks** with **Selenium (Java)** and **Playwright (Python)**, combined with API testing and CI/CD pipelines.  
+
+I’m a **QA Automation Engineer** passionate about building scalable and efficient testing solutions.  
+My expertise lies in **UI and API automation**, **continuous integration**, and **test efficiency optimization**.  
 
 ✨ **Highlights:**  
-- 🚀 Built a scalable **Playwright + Pytest framework** with CI/CD and Allure reporting.  
-- 🔧 Experienced with **Selenium Java + POM** design patterns for enterprise-grade projects.  
-- 🌐 Skilled in **UI & API test automation**, parallel execution, and advanced reporting.  
-- 📈 Currently expanding into **CI/CD integration, performance testing, and mobile automation**.  
-- 🤝 Open to **freelance projects** and long-term collaboration opportunities.  
+- 🚀 Designed a modular **Playwright + Pytest framework** with CI/CD pipelines and Allure reporting.  
+- 🔧 Hands-on experience with **Selenium (Java)** and **Page Object Model (POM)** for enterprise automation.  
+- 🌐 Skilled in **test automation across UI & API**, data-driven testing, and advanced reporting.  
+- 📈 Currently expanding into **performance testing, mobile automation, and DevOps-focused QA**.  
+- 🤝 Open to **freelance opportunities** and **long-term collaborations**.  
 
 ---
 
 ### 📌 Pinned Projects  
-Here are some of my highlighted works:  
 
-🔹 [**Selenium_Java**](https://github.com/LuisVu1999/Selenium_Java) – Automation framework with Selenium + Java + POM.  
-🔹 [**OrangeHRMOrangeHRM**](https://github.com/LuisVu1999/OrangeHRMOrangeHRM) – Manual + automation testcases for OrangeHRM demo application.  
-🔹 [**playwright-pytest-framework**](https://github.com/LuisVu1999/playwright-pytest-framework) – Playwright + Pytest framework with CI/CD and Allure reports.  
+Here are some of my key works:  
+
+🔹 [**Selenium_Java**](https://github.com/LuisVu1999/Selenium_Java) – Framework for UI automation with Selenium + Java + POM.  
+🔹 [**OrangeHRMOrangeHRM**](https://github.com/LuisVu1999/OrangeHRMOrangeHRM) – Manual & automation testcases for the OrangeHRM demo app.  
+🔹 [**playwright-pytest-framework**](https://github.com/LuisVu1999/playwright-pytest-framework) – Playwright + Pytest framework integrated with CI/CD & Allure reports.  
 
 ---
 
@@ -55,12 +57,14 @@ Here are some of my highlighted works:
 ---
 
 ### 🚀 Demo Showcase (Coming Soon)  
-🎥 A short **demo GIF** of Playwright tests running with Allure reports will be added here.  
-(*Tip: You can generate one with `playwright test --video on` and upload it as GIF.*)
+
+🎥 A short **demo GIF** of Playwright tests with Allure reports will be added here.  
+(*Tip: Generate one with `playwright test --video on` and upload as GIF.*)  
 
 ---
 
 ### 📌 Note  
-This profile README is actively maintained. More updates (performance testing, mobile automation, and new projects) will be added soon!  
+
+This profile README is actively maintained. Updates on **performance testing**, **mobile automation**, and **new projects** will be added soon!  
 
 ---
