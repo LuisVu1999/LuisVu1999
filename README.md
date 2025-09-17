@@ -5,28 +5,35 @@
 
 ### 💡 About Me  
 
-I’m a **QA Automation Engineer** passionate about building scalable and efficient testing solutions.  
-My expertise lies in **UI and API automation**, **continuous integration**, and **test efficiency optimization**.  
+I’m a **QA Automation Engineer / Freelancer** passionate about building **scalable, reliable, and efficient testing solutions**.  
+I focus on **UI & API automation**, **CI/CD pipelines**, and **test optimization** to help teams deliver quality faster.  
 
-✨ **Highlights:**  
-- 🚀 Designed a modular **Playwright + Pytest framework** with CI/CD pipelines and Allure reporting.  
-- 🔧 Hands-on experience with **Selenium (Java)** and **Page Object Model (POM)** for enterprise automation.  
-- 🌐 Skilled in **test automation across UI & API**, data-driven testing, and advanced reporting.  
-- 📈 Currently expanding into **performance testing, mobile automation, and DevOps-focused QA**.  
-- 🤝 Open to **freelance opportunities** and **long-term collaborations**.  
+✨ **Key Highlights:**  
+- 🚀 Built a modular **Playwright + Pytest framework** with CI/CD (GitHub Actions) and Allure reporting.  
+- 🔧 Strong background in **Selenium (Java + POM)** for enterprise-scale automation.  
+- 🌐 Experience in **cross-browser UI testing**, **API test automation**, and **data-driven testing**.  
+- 📈 Currently expanding into **performance testing**, **mobile automation**, and **DevOps-oriented QA**.  
+- 🤝 Open to **freelance contracts (remote/international)** and **long-term QA collaborations**.  
+
+---
+## 💼 How I can help you
+- ✍️ Write maintainable automation tests (**UI & API**)  
+- ⚡ Add CI/CD pipelines to run tests on PRs and publish reports  
+- 🔧 Improve flaky tests & reduce manual testing time  
 
 ---
 
 ### 📌 Pinned Projects  
 
-Here are some of my key works:  
-🔹 [**OrangeHRM**](https://github.com/LuisVu1999/OrangeHRM) – Manual & automation testcases for the OrangeHRM demo app.  
-🔹 [**playwright-pytest-framework**](https://github.com/LuisVu1999/playwright-pytest-framework) – Playwright + Pytest framework integrated with CI/CD & Allure reports.  
-🔹 [**Selenium_Java**](https://github.com/LuisVu1999/Selenium_Java) – Framework for UI automation with Selenium + Java + POM.  
+Here are my main works:  
+
+- [**OrangeHRM**](https://github.com/LuisVu1999/OrangeHRM) – UI & API automation on OrangeHRM demo app, with GitHub Actions CI.  
+- [**Playwright-Pytest-Framework**](https://github.com/LuisVu1999/playwright-pytest-framework) – Custom framework integrating Playwright, Pytest, CI/CD, and Allure reports.  
+- [**Selenium_Java**](https://github.com/LuisVu1999/Selenium_Java) – Page Object Model framework for UI automation with Selenium & Java.  
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 Badges & Metrics  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LuisVu1999&show_icons=true&theme=tokyonight" height="160"/>
@@ -39,6 +46,23 @@ Here are some of my key works:
 
 ---
 
+### 🚀 Demo & Evidence  
+
+🎥 **Demo (Coming Soon)**  
+- Short **video/GIF** of Playwright tests running with Allure report.  
+- Live **GitHub Actions badge** showing build status.  
+- Add **coverage badge** (e.g., Codecov) for transparency.  
+
+---
+
+### 🛠️ Tech Stack  
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,pytest,selenium,playwright,git,github,githubactions,docker,linux,js,ts,html,css,mysql,postman,aws" />
+</p>
+
+---
+
 ### 🔗 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/vu-luis-b434b21b2/)  
@@ -46,24 +70,12 @@ Here are some of my key works:
 
 ---
 
-### 🛠️ Tech Stack  
+### 📌 Next Steps  
 
-**Languages & Tools:**  
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,pytest,selenium,playwright,git,github,githubactions,docker,linux,js,ts,html,css,mysql,postman,aws" />
-</p>
-
----
-
-### 🚀 Demo Showcase (Coming Soon)  
-
-🎥 A short **demo GIF** of Playwright tests with Allure reports will be added here.  
-(*Tip: Generate one with `playwright test --video on` and upload as GIF.*)  
-
----
-
-### 📌 Note  
-
-This profile README is actively maintained. Updates on **performance testing**, **mobile automation**, and **new projects** will be added soon!  
+- Add **topics/tags** to repos:  
+  `automation-testing, playwright, pytest, selenium, api-testing, ui-automation, qa, ci-cd`  
+- Add **badges** (build passing, coverage %, license).  
+- Upload **demo video/GIF** to showcase real test execution.  
+- Link profile README ↔ pinned repos clearly.  
 
 ---
