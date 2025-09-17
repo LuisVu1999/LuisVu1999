@@ -20,10 +20,9 @@ My expertise lies in **UI and API automation**, **continuous integration**, and 
 ### 📌 Pinned Projects  
 
 Here are some of my key works:  
-
-🔹 [**Selenium_Java**](https://github.com/LuisVu1999/Selenium_Java) – Framework for UI automation with Selenium + Java + POM.  
 🔹 [**OrangeHRM**](https://github.com/LuisVu1999/OrangeHRM) – Manual & automation testcases for the OrangeHRM demo app.  
 🔹 [**playwright-pytest-framework**](https://github.com/LuisVu1999/playwright-pytest-framework) – Playwright + Pytest framework integrated with CI/CD & Allure reports.  
+🔹 [**Selenium_Java**](https://github.com/LuisVu1999/Selenium_Java) – Framework for UI automation with Selenium + Java + POM.  
 
 ---
 
