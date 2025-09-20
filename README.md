@@ -65,8 +65,9 @@ Here are my main works:
 
 ### 🔗 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/vu-luis-b434b21b2/)  
-[![GitHub](https://img.shields.io/badge/GitHub-LuisVu1999-black?logo=github)](https://github.com/LuisVu1999)  
+[![Email](https://img.shields.io/badge/Email-luisvu.work%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:luisvu.work@gmail.com)    
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-luisvu99-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisvu99/)    
+[![GitHub](https://img.shields.io/badge/GitHub-LuisVu1999-black?logo=github)](https://github.com/LuisVu99)  
 
 ---
 
